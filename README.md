@@ -1,48 +1,56 @@
 # DeadDiff
 
-> DeadCommunity product showcase — **no source code**.
+> ◆ DeadCommunity product card — **no source code · no API keys**.
 
-**Role:** Side-by-side text / code diff
+### ◆ Role
 
-Compare two texts or code snippets side by side to spot changes quickly.
+**Side-by-side text / code diff**
 
-## Live
+Compare two texts or snippets side by side to spot changes quickly.
 
-**[https://diff.deadcommunity.com](https://diff.deadcommunity.com)**
+### ◆ Live
 
-## What it does
+↳ **[https://diff.deadcommunity.com](https://diff.deadcommunity.com)**
 
-- Clear visual diff for reviews and notes
-- No install required — open the URL and paste
-- Useful for bot configs, docs, and quick reviews
+### ◆ What it does
 
-## Who it’s for
+▸ Clear visual diff for reviews
+▸ Open URL · paste · compare
+▸ Useful for configs, docs, quick reviews
 
-Developers and technical writers
+### ◆ Highlights
 
-## Stack (high level)
+○ No install required
+○ Tool-shelf product
+○ Self-hosted
+
+### ◆ Who it’s for
+
+▸ Developers · technical writers
+
+### ◆ Stack (high level)
 
 `Web app` · `Docker` · `Nginx` · `Cloudflare Tunnel`
 
-## Status
+### ◆ Status
 
-- **Production:** running on DeadCommunity infrastructure  
-- **Source:** private (not published)  
-- **Operator model:** idea → UI/API → Docker deploy → uptime  
+| ▣ | ○ |
+|:--|:--|
+| Production | Running on DeadCommunity infrastructure |
+| Source | **Private** (not published) |
+| Public surface | This README + live URL only |
+| Operator model | ■ scope → ■ build → ■ containerize → ■ hostname → ■ iterate |
 
+### ◆ Policy
+
+| Included | Not included |
+|:---------|:-------------|
+| Purpose · live link · stack overview | Application source |
+| High-level architecture notes | `.env` · secrets · API keys · tokens |
+| Operator story | Production private configs |
 
 ---
 
-## About this repository
-
-This is a **public product card**, not a source dump.
-
-| Included | Not included |
-|----------|--------------|
-| What the product is | Application source code |
-| Live URL (when public) | `.env`, secrets, API keys |
-| High-level stack | Production private configs |
-
-Index of all products: [deadcommunity-showcase](https://github.com/Semaru47/deadcommunity-showcase)  
-Profile: [github.com/Semaru47](https://github.com/Semaru47) · Site: [deadcommunity.com](https://deadcommunity.com)
-
+↳ Index: [deadcommunity-showcase](https://github.com/Semaru47/deadcommunity-showcase)  
+↳ Profile: [github.com/Semaru47](https://github.com/Semaru47)  
+↳ Brand: [deadcommunity.com](https://deadcommunity.com)
